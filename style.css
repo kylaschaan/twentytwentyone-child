@@ -1,0 +1,21 @@
+/*
+Theme Name: My Twenty Twenty One Child Theme
+Theme URI: https://wordpress.org/themes/twentytwentyone/
+Description: A child theme for Twenty Twenty One.
+Author: Kyla Schaan
+Author URI: https://kylaschaan.com
+Template: twentytwentyone
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+*/
+h2 {
+  color: blueviolet;
+  font-size: 0.2rem;
+}
+body {
+  background-color: pink;
+}
+h1 {
+  color: purple;
+}
